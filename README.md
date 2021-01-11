@@ -4,7 +4,7 @@
 
 ![Unit_Test_React!](img/poc.png "Unit Test")
 
-> Technologies
+> Technologies & Tools
 >
 > - React JS
 > - TypeScript
@@ -21,7 +21,7 @@
 ![Unit_Test_ELK!](img/unit_testing_dashboard.png "Unit Test")
 ![Unit_Test_ELK!](img/test.png "Unit Test")
 
-> Technologies
+> Technologies & Tools
 >
 > - ElasticSearch 7
 > - Logstash 7 (http_poller)
@@ -35,7 +35,7 @@
 ![Integration_Test_ELK!](img/elk_form.png "Integration Test")
 ![Integration_Test_ELK!](img/elk.png "Integration Test")
 
-> Technologies
+> Technologies & Tools
 >
 > - ElasticSearch 7
 > - Logstash 7 (http_poller)
@@ -49,7 +49,7 @@
 ![Integration_Test_Angular!](img/dashboard_form.png "Integration Test")
 ![Integration_Test_Angular!](img/dashboard.png "Integration Test")
 
-> Technologies
+> Technologies & Tools
 >
 > - Angular 8
 > - TypeScript
