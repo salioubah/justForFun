@@ -1,6 +1,6 @@
 # Projects screenshots
 
-## 1. Dashbord of unit tests metrics by React JS
+## 1. Dashboard of unit tests metrics by React JS
 
 ![Unit_Test_React!](img/poc.png "Unit Test")
 
@@ -16,7 +16,7 @@
 
 ***
 
-## 2. Dashbord of unit tests metrics by ELK
+## 2. Dashboard of unit tests metrics by ELK
 
 ![Unit_Test_ELK!](img/unit_testing_dashboard.png "Unit Test")
 ![Unit_Test_ELK!](img/test.png "Unit Test")
@@ -30,7 +30,7 @@
 
 ***
 
-## 3. Dashbord of integration tests metrics by ELK
+## 3. Dashboard of integration tests metrics by ELK
 
 ![Integration_Test_ELK!](img/elk_form.png "Integration Test")
 ![Integration_Test_ELK!](img/elk.png "Integration Test")
@@ -44,7 +44,7 @@
 
 ***
 
-## 4. Dashbord of integration tests metrics by Angular 8
+## 4. Dashboard of integration tests metrics by Angular 8
 
 ![Integration_Test_Angular!](img/dashboard_form.png "Integration Test")
 ![Integration_Test_Angular!](img/dashboard.png "Integration Test")
