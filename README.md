@@ -25,6 +25,7 @@
 > - ElasticSearch 7
 > - Logstash 7 (http_poller)
 > - Kibana 7
+> - API consumers (SonarQube)
 
 ***
 
@@ -38,6 +39,7 @@
 > - ElasticSearch 7
 > - Logstash 7 (http_poller)
 > - Kibana 7
+> - API consumers (SonarQube, JIRA, Xray)
 
 ***
 
