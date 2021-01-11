@@ -10,6 +10,7 @@
 > - TypeScript
 > - API consumers (SonarQube)
 > - Bootstrap 4
+> - FontAwesome
 > - Material UI
 > - dx-react-chart-material-ui
 
